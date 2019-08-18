@@ -7,4 +7,7 @@ export const hello = () => {
   //
   // YOUR CODE GOES HERE
   //
+
+  var hello = 'Hello, World!';
+  return hello;
 };
