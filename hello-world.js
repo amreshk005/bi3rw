@@ -7,7 +7,7 @@ export const hello = () => {
   //
   // YOUR CODE GOES HERE
   //
-
-  var hello = 'Hello, World!';
-  return hello;
+  //amresh
+  var Hello = 'Hello, World!';
+  return Hello;
 };
